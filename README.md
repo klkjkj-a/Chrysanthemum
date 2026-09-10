@@ -1,5 +1,12 @@
 # Chrysanthemum
 
+<p align=center>
+  <a href="https://github.com/klkjkj-a/Chrysanthemum/">
+    <img alt="1.415 Release" src="https://img.shields.io/badge/release-1.415-0688CB.svg"></a>
+  <a href="https://openfontlicense.org/open-font-license-official-text/">
+    <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
+</p>
+
 ## 项目简介 / INTRODUCTION
 
 Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包括正体和斜体，目前仅有一个字重。
