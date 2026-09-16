@@ -7,6 +7,10 @@
     <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
 </p>
 
+![Roman](roman.png "roman")
+
+![Italic](italic.png "italic")
+
 ## 项目简介 / INTRODUCTION
 
 Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包括正体和斜体，目前仅有一个字重。
