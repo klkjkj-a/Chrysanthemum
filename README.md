@@ -11,27 +11,6 @@
 
 Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包括正体和斜体，目前仅有一个字重。
 
-## 项目结构 / STRUCTURE
-
-```text
-.
-├── Source
-│        ├── c.fcp                         # 正体源文件
-│        └── c-Italic.fcp                  # 斜体源文件
-├── WOFF
-│      ├── Chrysanthemum-Italic.woff
-│      ├── Chrysanthemum-Italic.woff2
-│      ├── Chrysanthemum-Regular.woff
-│      └── Chrysanthemum-Regular.woff2
-├── Chrysanthemum-Italic.otf
-├── Chrysanthemum-Regular.otf
-├── LICENSE                                # SIL Open Font License 1.1
-├── OFL-FAQ.txt
-├── README.md                              # 本文件
-├── xxx.md                                 # ???
-└── FontCreator_Badge_01.png               # Made With FontCreator 15.0!
-```
-
 ## 许可证 / LICENSE
 
 - 本字体以 [SIL Open Font License](https://openfontlicense.org/open-font-license-official-text/) 1.1 发布。
