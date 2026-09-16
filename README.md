@@ -9,9 +9,9 @@
   <img alt="1001 Fonts" src="https://img.shields.io/badge/1001-Fonts-B72734.svg"></a>
 </p>
 
-![Roman](roman.png "roman")
+![Roman](roman.png "Regular")
 
-![Italic](italic.png "italic")
+![Italic](italic.png "Italic")
 
 ## 项目简介 / INTRODUCTION
 
