@@ -5,6 +5,8 @@
     <img alt="1.415 Release" src="https://img.shields.io/badge/release-1.415-0688CB.svg"></a>
   <a href="https://openfontlicense.org/open-font-license-official-text/">
     <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
+  <a href="https://www.1001fonts.com/chrysanthemum-font.html">
+  <img alt="1001 Fonts" src="https://img.shields.io/badge/1001-Fonts-B72734.svg"></a>
 </p>
 
 ![Roman](roman.png "roman")
