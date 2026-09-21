@@ -25,9 +25,9 @@ Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包�
 
 - 正体大部分字母与符号、斜体大写字母、旧体数字：衍生自 [Theano Old Style](https://www.1001fonts.com/theano-old-style-font.html)。
 
-- 斜体小写字母：衍生自 [Libre Baskerville](https://github.com/impallari/Libre-Baskerville)  [（或1001 Fonts链接）](https://www.1001fonts.com/libre-baskerville-font.html)。
+- 斜体小写字母：衍生自 [Libre Baskerville](https://github.com/impallari/Libre-Baskerville)  [（或 1001 Fonts 链接）](https://www.1001fonts.com/libre-baskerville-font.html)。
 
-- 等宽、比例阿拉伯数字：衍生自 [BIZ UDPMincho](https://fonts.adobe.com/fonts/biz-udpmincho)  [（或いいフォント/goodfreefonts链接）](https://goodfreefonts.com/456/)。
+- 等宽、比例阿拉伯数字：衍生自 [BIZ UDPMincho](https://fonts.adobe.com/fonts/biz-udpmincho)  [（或 いいフォント/goodfreefonts 链接）](https://goodfreefonts.com/456/)。
 
 - 修改字体使用软件：FontCreator 15.0.0.2992
 
