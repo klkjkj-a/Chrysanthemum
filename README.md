@@ -2,7 +2,7 @@
 
 <p align=center>
   <a href="https://github.com/klkjkj-a/Chrysanthemum/releases/tag/tag">
-    <img alt="1.417 Release" src="https://img.shields.io/badge/release-1.417-0688CB.svg"></a>
+    <img alt="1.418 Release" src="https://img.shields.io/badge/release-1.418-0688CB.svg"></a>
   <a href="https://openfontlicense.org/open-font-license-official-text/">
     <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
   <a href="https://www.1001fonts.com/chrysanthemum-font.html">
