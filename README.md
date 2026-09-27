@@ -1,7 +1,7 @@
 # Chrysanthemum
 
 <p align=center>
-  <a href="https://github.com/klkjkj-a/Chrysanthemum/releases/tag/tag">
+  <a href="https://github.com/klkjkj-a/Chrysanthemum/releases/tag/tag2">
     <img alt="2.000 Release" src="https://img.shields.io/badge/release-2.000-0688CB.svg"></a>
   <a href="https://openfontlicense.org/open-font-license-official-text/">
     <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
