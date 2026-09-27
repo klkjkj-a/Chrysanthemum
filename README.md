@@ -2,7 +2,7 @@
 
 <p align=center>
   <a href="https://github.com/klkjkj-a/Chrysanthemum/releases/tag/tag">
-    <img alt="1.418 Release" src="https://img.shields.io/badge/release-1.418-0688CB.svg"></a>
+    <img alt="2.000 Release" src="https://img.shields.io/badge/release-2.000-0688CB.svg"></a>
   <a href="https://openfontlicense.org/open-font-license-official-text/">
     <img alt="License" src="https://img.shields.io/badge/license-OFL_1.1-0688CB.svg"></a>
   <a href="https://www.1001fonts.com/chrysanthemum-font.html">
@@ -13,7 +13,7 @@
 
 ## 项目简介 / INTRODUCTION
 
-Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包括正体和斜体，目前仅有一个字重。
+Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包括正体和斜体，有两个字重。
 
 ## 许可证 / LICENSE
 
@@ -30,6 +30,8 @@ Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包�
 - 等宽、比例阿拉伯数字：衍生自 [BIZ UDPMincho](https://fonts.adobe.com/fonts/biz-udpmincho)  [（或 いいフォント/goodfreefonts 链接）](https://goodfreefonts.com/456/)。
 
 - 修改字体使用软件：FontCreator 15.0.0.2992
+
+**没有开源社区的支持和贡献，就没有 Chrysanthemum 的今天。**
 
 ![Made With FontCreator 15.0](FontCreator_Badge_01.png "FontCreator")
 
