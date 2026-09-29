@@ -29,7 +29,7 @@ Chrysanthemum 是一款以 SIL OFL 1.1 协议开源的西文衬线字体，包�
 
 - 等宽、比例阿拉伯数字：衍生自 [BIZ UDPMincho](https://fonts.adobe.com/fonts/biz-udpmincho)  [（或 いいフォント/goodfreefonts 链接）](https://goodfreefonts.com/456/)。
 
-- 修改字体使用软件：FontCreator 15.0.0.2992
+- 修改字体使用软件：FontCreator 15.0.0.2927
 
 **没有开源社区的支持和贡献，就没有 Chrysanthemum 的今天。**
 
